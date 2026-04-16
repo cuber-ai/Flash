@@ -66,7 +66,7 @@ These integrations provide a comprehensive toolkit for creating content across t
 - **Text-to-Speech**: Azure TTS
 
 ### Black Forest Labs
-- **Image Generation**: FLUX.1 Kontext [max], FLUX.1 Kontext [pro], FLUX 1.1 [pro], FLUX 1.1 FLUX.1 [pro], FLUX.1 [dev], FLUX.1 [schnell]
+- **Image Generation**: FLUX.1 Kontext [max], FLUX.1 Kontext [pro], FLUX 1.1 [pro], FLUX.1 [pro], FLUX.1 [dev], FLUX.1 [schnell]
 
 ### Kling AI
 - **Video Generation**: Kling 2.6, Kling 2.5 Pro, Kling 2.1 Master, Kling 2 Master, Kling 1.6 Pro, Kling 1.6
